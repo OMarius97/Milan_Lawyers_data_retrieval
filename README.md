@@ -1,5 +1,3 @@
-# Milan_Lawyers_data_retrival
-
 
 # Milan Lawyers data retrieval
 
@@ -35,16 +33,18 @@ The following elements are required to run this program:
 The program starts by opening the excel file "Lawyers name" from which it extracts the name and surnames of lawyers.
 It then uses the Microsoft Edge driver to access Albo Sfera in Milan. Enter the name and surname of the Lawyer in the corresponding field and press the search button.
 
-![App Screenshot](https://drive.google.com/file/d/1WybgRI22OT_CMb6p00iG-XfAER7kXgX-/view?usp=sharing)
+![Captură 1](https://user-images.githubusercontent.com/46033329/164895742-11d3a2ac-a488-4cf0-8ed3-2fb9d80cd93a.JPG)
  
 
 The program is set to fall asleep for a few seconds, time required by the website to find the lawyer.
-![App Screenshot](https://drive.google.com/file/d/1jw8qRqNVXaWMgi3jZV9oM77cisRamed4/view?usp=sharing)
+
+![Captură 2](https://user-images.githubusercontent.com/46033329/164895758-27a2cfc7-75d7-4b0e-b06d-3bd1c0d2d28a.JPG))
   
 Once the lawyer is found, the program press the button to get more details and then copy all the information needed to complete the Excel file with the results.
-![App Screenshot](https://drive.google.com/file/d/1kOKbfcnbDIFhoNBxIRouTeR9rhrxcUEN/view?usp=sharing)
+
+![Captură 3](https://user-images.githubusercontent.com/46033329/164895759-d4113c56-7944-4bd2-96f2-46446d7db93b.JPG)
   
-![App Screenshot](https://drive.google.com/file/d/1QyDZSepp8lepPDjFDX3AaLh8NZbCEY0G/view?usp=sharing)
+![Captură 4](https://user-images.githubusercontent.com/46033329/164895760-b14f035d-bb2b-404e-8c8d-69e8000e3a61.JPG)
   
 
 Finally, the program closes the edge pages to avoid overloading the computer. 
