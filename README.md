@@ -55,7 +55,7 @@ The program executes the respective action for each Lawyer from the list with na
 Clone the project
 
 ```bash
-  git clone https://github.com/OMarius97/Milan_Lawyers_data_retrival
+  git clone https://github.com/OMarius97/Milan_Lawyers_data_retrieval
 ```
 
 
